@@ -1,4 +1,5 @@
-Example: $ruby Spaces_to_tabs.rb /path_or_file
--a to edit all files, use with CAUTION 
-two spaces to a tab
+This is a tool to replace all space indented files in a directory tree with tabs.
+Defaults to replacing html, haml, and .rb files, or all files if you pass -a.
+It's very easy to change which file types edited within the script.  Handy stuff.
+
 light24bulbs@gmail.com
